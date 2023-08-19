@@ -2,7 +2,7 @@ import tkinter as tk
 import openai
 
 # Apply the API Key
-openai.api_key = "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" #"YOUR_API_KEY"
+openai.api_key = "YOUR_API_KEY"
 
 # Generate a response using OpenAI GPT-3
 def generate_response(prompt):
